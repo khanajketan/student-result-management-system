@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Student_Result_Management_System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
